@@ -12,7 +12,7 @@ Como fazer o projeto react rodar no git hub pages
     }
     
    e altere em ( "homepage": '' ) a url onde a pagina vai estar,
-   por exemplo: "homepage": "https://masander.github.io/TestesReact/",
+   por exemplo: "homepage": "https://masander.github.io/React-no-GitPages/",
     
    Então o arquivo vai ficar assim:
     "scripts": {    
